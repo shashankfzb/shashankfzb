@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Career Compass.
+- 🌱 I’m currently learning Machine Learning.
+- 💬 Ask me about Computer Science & Cricket.
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/pandey-shashank-shekhar/)
 <!--
 **shashankfzb/shashankfzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
