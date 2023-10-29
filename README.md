@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10eXyTkCfCOunsENCt8Ijm0YHxWzMMSzD/view?usp=drive_link](https://drive.google.com/file/d/10eXyTkCfCOunsENCt8Ijm0YHxWzMMSzD/view?usp=drive_link)
 
-- [![shashankfzb's GitHub | Dependencies](https://stats.quine.sh/shashankfzb/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shashankfzb)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shashanksh18854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashanksh18854" height="30" width="40" /></a>
