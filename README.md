@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashanksh18854" target="blank"><img src="https://img.shields.io/twitter/follow/shashanksh18854?logo=twitter&style=for-the-badge" alt="shashanksh18854" /></a> </p>
 
-- 🔭 I’m currently working on [Career Compass](https://github.com/shashankfzb/Career-Compass)
+- 🔭 I’m currently working on MySelf
 
 - 🌱 I’m currently learning **Machine Learning**
 
